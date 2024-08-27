@@ -54,12 +54,3 @@ dark and light mode for user preference.
 
 5. **Open your browser and visit http://localhost:3000 to view the portfolio template.**
 
-## Live Version
-
-[https://portfolio-template-nuxt.atalek.com/](https://portfolio-template-nuxt.atalek.com/)
-
-## Author
-
-Github [@atalek](https://github.com/atalek) <br> Linkedin:
-[@Aleksandar Atanasovski](https://www.linkedin.com/in/aleksandar-atanasovski-16b123263/)
-<br> Portfolio: [https://www.atalek.com/](https://www.atalek.com/)
