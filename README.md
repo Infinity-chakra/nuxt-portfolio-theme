@@ -1,6 +1,6 @@
 # Portfolio template
 
-![Landing page](https://res.cloudinary.com/dkofkuquf/image/upload/v1715871041/nuxtshop/dl2mfhs5qc0vw5y3k1wx.png)
+[Landing page](https://res.cloudinary.com/dkofkuquf/image/upload/v1715871041/nuxtshop/dl2mfhs5qc0vw5y3k1wx.png)
 
 This is a basic portfolio template built with **Nuxt 3** and **Tailwind CSS**. It provides
 a clean and modern foundation to showcase your skills and experience, featuring toggleable
